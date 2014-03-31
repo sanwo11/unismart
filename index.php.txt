@@ -8,5 +8,6 @@
 	<?php echo "Hello World";?>
 	<p>Update </p>
 	<p>Update </p>
+	<p>Direct updating </p>
 </body>
 </html>
