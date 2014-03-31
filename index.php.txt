@@ -6,5 +6,6 @@
 <body>
 	<h1>My First Coding</h1>
 	<?php echo "Hello World";?>
+	<p>Update </p>
 </body>
 </html>
